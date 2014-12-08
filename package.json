@@ -2,16 +2,12 @@
   "name": "newstangles",
   "version": "0.0.1",
   "description": "Fancy news tangles",
-
   "scripts": {
     "build": "webpack --watch -d",
     "build-production": "webpack -p -d",
-
     "start": "nodemon server",
     "production": "node server"
   },
-
-
   "repository": {
     "type": "git",
     "url": "git://github.com/enaqx/newstnagles"
@@ -20,8 +16,6 @@
     "url": "https://github.com/enaqx/newstnagles/issues"
   },
   "homepage": "https://github.com/enaqx/newstnagles",
-
-
   "keywords": [
     "News",
     "Tangles",
@@ -29,16 +23,13 @@
     "World",
     "Society"
   ],
-
-
   "author": "Nick Raienko <enaqxx@gmail.com> (http://enaqx.github.io/)",
   "license": "MIT",
-
-
   "dependencies": {
     "express": "^4.10.4",
     "flux": "^2.0.1",
     "jest": "^0.1.37",
+    "mongoose": "^3.8.20",
     "react": "^0.12.1",
     "serve-static": "^1.7.1"
   },

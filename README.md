@@ -7,6 +7,7 @@ Using:
  * [Jest](http://facebook.github.io/jest/) as Unit Testing framework
  * [PureCSS](http://purecss.io/) as CSS framework
  * [Webpack](http://webpack.github.io/) as builfing tool
+ * [MongoDB](http://www.mongodb.org/) with Mongoose(http://mongoosejs.com/) ODM
 
 Usage for development:
  * `$ npm install`
