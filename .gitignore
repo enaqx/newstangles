@@ -3,3 +3,7 @@ node_modules
 
 # NPM debug log
 npm-debug.log
+
+# Built bundels
+public/js/bundle.js
+public/js/bundle.js.map
